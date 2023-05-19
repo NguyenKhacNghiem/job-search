@@ -1,0 +1,41 @@
+form {
+    padding-right: 2%;
+}
+
+.blue-text, a {
+    color: #1A73E8;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Điều chỉnh vị trí của icon con mắt */
+.input-group {
+    position: relative;
+}
+
+.form-control {
+    border-left: none;
+}
+
+.eye {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+/* Footer */
+.info{
+    color: black;
+}
+
+.navbar-end {
+    margin-top: 0 !important;
+}
+
+.fa-brands {
+    cursor: pointer;
+}

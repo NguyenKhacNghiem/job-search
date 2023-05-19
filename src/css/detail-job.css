@@ -1,0 +1,36 @@
+/* Nav bar */
+.nav-link {
+    color: black;
+    font-size: 30px;
+}
+
+.dropdown-item {
+    background-color: #DEE1E3;
+    margin-bottom: 10px;
+    border-radius: 4px 4px 4px 4px;
+    padding: 10px 10px;
+}
+
+.dropdown {
+    background-color: #1A73E8;
+    border-radius: 32px 32px 32px 32px;
+    padding: 0px 10px;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Footer */
+.blue-text {
+    color: #1A73E8;
+}
+
+.info {
+    color: black;
+}
+
+.fa-brands {
+    cursor: pointer;
+}
