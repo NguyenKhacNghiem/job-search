@@ -36,11 +36,11 @@ The website helps employers and job seekers connect together. Where employers ca
 ### How to run this website?
 1. Download or clone this project from GitHub
 2. Unzip this project
-3. Open XAMPP and accessing PHPMyAdmin
+3. Open XAMPP and access PHPMyAdmin
 4. Import file `database.sql` in order to have a sample database
 5. Copy all content in `src` folder and paste it to `htdocs` folder of XAMPP
 6. Open file `db.php` to reconfig the database like hostname, username, password (if any)
-7. Open the browser and accessing `http://localhost/`
+7. Open the browser and access `http://localhost/`
 ### Sample accounts to sign in
 1. **Candidate account**
     - username: nghiem7755@gmail.com
