@@ -1,11 +1,11 @@
-# Find Job Website
-A find job website using PHP.
+# Job Search Website
+The website helps employers and job seekers connect together. Where employers can post recruitment news and job seekers will search for that news.
 ### Software Development Technologies
 - HTML, CSS, Javascript: make website frontend
 - PHP: make website backend
-- MySQL database
-- Bootstrap 4
-- PHP Mailer
+- MySQL: make the database
+- Bootstrap 4: make intuitive and friendly UI
+- PHP Mailer: help to send emails
 ### Features
 1. **Candidate role**
     - Sign in
@@ -51,4 +51,3 @@ A find job website using PHP.
 3. **Administrator account**
     - username: admin
     - password: 123456
-> Currently this program only supports **Vietnamese** language.
